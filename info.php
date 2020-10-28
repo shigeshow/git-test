@@ -6,6 +6,6 @@
 </head>
 
 <body>
-	devで追加２99999
+	<?php php_info(); ?>
 </body>
 </html>
